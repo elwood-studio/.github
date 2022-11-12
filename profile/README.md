@@ -1,4 +1,4 @@
-<p align="center"><img src="./docs/assets/github-banner.svg" width="100%" alt="Elwood Studio"></p>
+<p align="center"><img src="https://github.com/elwood-studio/studio/raw/main/docs/assets/github-banner.svg" width="100%" alt="Elwood Studio"></p>
 
 <p align="center">
 <b>Open Source Creator Framework</b>
