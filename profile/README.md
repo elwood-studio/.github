@@ -1,6 +1,6 @@
 <p align="center">
-<img src="./gh-banner-light.png#gh-light-mode-only">
-<img src="./gh-banner-dark.png#gh-dark-mode-only">
+<img src="https://raw.githubusercontent.com/elwood-studio/.github/main/profile/gh-banner-light.png#gh-light-mode-only">
+<img src="https://raw.githubusercontent.com/elwood-studio/.github/main/profile/gh-banner-dark.png#gh-dark-mode-only">
 </p>
 
 <p align="center">
