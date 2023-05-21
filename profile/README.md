@@ -1,15 +1,27 @@
-<p align="center"><img src="https://elwood-studio-pub.s3.amazonaws.com/github-banner.svg" width="100%" alt="Elwood Studio"></p>
+<p align="center">
+<img src="./gh-banner-light.png#gh-light-mode-only">
+<img src="./gh-banner-dark.png#gh-dark-mode-only">
+</p>
 
 <p align="center">
-<b>Upload.
-Collaborate.
-Distribute.
-</b><br>
-The open source Dropbox alternative for content creators. 
-<br><br>
+<strong>Elwood Studio</strong> is an open source Dropbox alternative, built for advanced media management. Lighting fast uploads. Real-time, multi-user collaboration. Powerful role-based sharing. Simple one-click distribution.
+</p>
+
+<p align="center">
 <small>
-<a href="https://elwood.studio">elwood.studio</a> | 
-<a href="https://discord.gg/ZxWKPeABNG">Discord</a> |
+<a href="https://elwood.studio">elwood.studio</a> &#8226; 
+<a href="https://discord.gg/ZxWKPeABNG">Discord</a> &#8226;
 <a href="mailto:hello@elwood.studio">hello@elwood.studio</a>
 </small>
 </p>
+
+<p align="center"><br/>
+    <hr width="50%"><br/>
+</p>
+
+## :raised_hand: Support
+
+- [Community Forum](https://github.com/elwood-studio/studio/discussions): Good for developer discussion, help debugging, ask questions. **Not sure, start here**
+- [Discord](https://discord.gg/ZxWKPeABNG): Join our Discord Server
+- [GitHub Issues](https://github.com/elwood-studio/studio/issues): Good for bugs and errors in running Elwood Studio locally
+- [Email Support](mailto:support@elwood.studio): Good for errors using Elwood Studio Cloud.
