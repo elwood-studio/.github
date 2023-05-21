@@ -16,7 +16,6 @@
 </p>
 
 <p align="center"><br/>
-    <hr width="50%"><br/>
 </p>
 
 ## :raised_hand: Support
