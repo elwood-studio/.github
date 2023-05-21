@@ -14,13 +14,3 @@
 <a href="mailto:hello@elwood.studio">hello@elwood.studio</a>
 </small>
 </p>
-
-<p align="center"><br/>
-</p>
-
-## :raised_hand: Support
-
-- [Community Forum](https://github.com/elwood-studio/studio/discussions): Good for developer discussion, help debugging, ask questions. **Not sure, start here**
-- [Discord](https://discord.gg/ZxWKPeABNG): Join our Discord Server
-- [GitHub Issues](https://github.com/elwood-studio/studio/issues): Good for bugs and errors in running Elwood Studio locally
-- [Email Support](mailto:support@elwood.studio): Good for errors using Elwood Studio Cloud.
